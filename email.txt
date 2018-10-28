@@ -1,0 +1,8 @@
+Subject: Secret Santa 2018
+
+Greetings, {0},
+
+This message is to inform you that you are the SANTA for: {1}.  Thank you for participating in our Secret Santa gathering.
+
+Good luck and Happy Holidays!
+~Christopher
