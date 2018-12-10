@@ -1,0 +1,9 @@
+To: {to_email}
+Subject: Secret Santa {year}
+
+Greetings, {santa},
+
+This message is to inform you that you are the SECRET SANTA for: {giftee}.  Thank you for participating in our yearly event.
+
+Good luck and Happy Holidays!
+~{signoff_name}

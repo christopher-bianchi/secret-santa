@@ -1,0 +1,13 @@
+version: '3.7'
+services:
+  secret-santa:
+    container_name: secret-santa
+    build:
+      context: .
+    image: secret-santa:1
+    volumes:
+      - .:/usr/src/app
+    environment:
+      - SANTA_MAILER_ACCOUNT_EMAIL
+      - SANTA_MAILER_ACCOUNT_TOKEN
+      - SANTA_EMAIL_SIGNOFF_NAME=<signoff_name>
